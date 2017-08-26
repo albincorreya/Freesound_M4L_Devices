@@ -1,10 +1,8 @@
 # Freesound_M4L_Devices
 
-This repository demonstrates various applications of using the 'Freesound_Max-MSP_Modules' inside Ableton's Live DAW using Max for Live framework.
+This repository demonstrates various applications of using the [Freesound_Max-MSP_Modules](https://github.com/albincorreya/Freesound_Max-MSP_Modules) inside Ableton's Live DAW using Max for Live framework.
 
-https://github.com/albincorreya/Freesound_Max-MSP_Modules
-
-https://user-images.githubusercontent.com/14850001/29743825-4a426ea2-8a99-11e7-809d-115daa3fc60e.png
+![alt text](https://user-images.githubusercontent.com/14850001/29743825-4a426ea2-8a99-11e7-809d-115daa3fc60e.png)
 
 
 
